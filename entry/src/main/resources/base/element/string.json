@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "testharmony"
+    },
+    {
+      "name": "testJson",
+      "value": "{\"errorCode\":\"200\",\"errorDesc\":\"网络连接正常\",\"status\":\"1\",\"key1\":\"value1\",\"key2\":\"value2\",\"key3\":\"value3\",\"data\":{\"datakey01\":\"datavalue01\",\"datakey02\":\"datavalue02\"}}"
+    }
+  ]
+}

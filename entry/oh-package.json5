@@ -1,0 +1,16 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+//    "@ohos/crypto-js": "^2.0.3-rc.0",
+    "@utilslibrary/mutils": "file:../UtilsLibrary"
+  },
+  "devDependencies": {
+    "@types/libentry.so": "file:./src/main/cpp/types/libmidentry",
+    "@utilslibrary/mutils": "file:../UtilsLibrary"
+  }
+}

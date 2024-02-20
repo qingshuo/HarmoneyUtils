@@ -1,0 +1,14 @@
+{
+  "name": "utilslibrary",
+  "version": "1.0.0",
+  "description": "UtilsLibrary",
+  "main": "index.ets",
+  "author": "jerrushuo",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/xlog": "file:libs/xlog.har",
+  },
+  "devDependencies": {
+    "@ohos/xlog": "file:libs/xlog.har",
+  }
+}

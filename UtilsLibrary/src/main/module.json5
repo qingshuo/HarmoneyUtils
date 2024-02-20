@@ -1,0 +1,16 @@
+{
+  "module": {
+    "name": "UtilsLibrary",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "installationFree": false,
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Home",
+    "pages/GridPages",
+    "pages/HttpSample",
+    "pages/UtilsSample",
+    "pages/WebviewSample",
+    "pages/SDKSample",
+    "pages/JSONSample"
+  ]
+}
